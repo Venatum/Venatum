@@ -35,4 +35,5 @@ For a better visualization of my projects: [vincent.le-quec.datsite.eu/portfolio
   <br/>
 </div>
 
+> ⚠️ I don't do PHP, Java or Angular ⚠️<br>
 > **Note:** Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
