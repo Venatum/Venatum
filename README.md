@@ -18,9 +18,9 @@ TODO:
 
 ### Hi there 👋
 
-I'm a FullStack/R&D developer. I work mainly on [gitlab](https://gitlab.com/vincent.le-quec) but I have some projects here.
+I'm a lead developer at PrestaShop (FullStack/R&D). I work both on [gitlab](https://gitlab.com/vincent.le-quec) & github, but I also have some fun projects here.
 
-For a better visualization of my projects: [vincent.le-quec.datsite.eu/portfolio](https://vincent.le-quec.datsite.eu/portfolio)
+For a better visualization & informations of my projects: [vincent.le-quec.datsite.eu/portfolio](https://vincent.le-quec.datsite.eu/portfolio)
 
 ### Docker Hub 🐳
 
