@@ -33,9 +33,16 @@ For a better visualization & informations of my projects: [vincent.le-quec.datsi
 ![Docker Image Size (tag)](https://img.shields.io/docker/image-size/venatum/arena/latest?color=0FAABD)
 ![Docker Stars](https://img.shields.io/docker/stars/venatum/arena?color=0FAABD)
 
+#### Some contributions 🔭
+
+- [PrestaShop](https://contributors.prestashop-project.org/#Venatum): Mainly on [flashlight](https://github.com/PrestaShop/prestashop-flashlight)
+![Docker Pulls](https://img.shields.io/docker/pulls/prestashop/prestashop-flashlight?color=0FAABD&logo=venatum%2Fbull-board%20pulls)
+![Docker Stars](https://img.shields.io/docker/stars/prestashop/prestashop-flashlight?color=0FAABD)
+- [BullBoard](https://github.com/felixmosh/bull-board/graphs/contributors)
+
 ### Github Stats 📈
 
-> But I mainly use [Gitlab](https://gitlab.com/vincent.le-quec)
+> But I also use [Gitlab](https://gitlab.com/vincent.le-quec)
 
 <div align="center">
 
