@@ -30,7 +30,7 @@ I work primarily between **GitHub** and [**GitLab**](https://gitlab.com/vincent.
 ```typescript
 const vincent: Venatum = {
   code: ["JavaScript", "TypeScript", "Python", "C", "..."],
-  frontend: ["Vue", "Stencil"],
+  frontend: ["Vue", "Stencil", "React"],
   backend: ["Node.js", "Nest", "..."],
   databases: ["EventStore", "PostgreSQL", "MongoDB", "Redis"],
   tools: ["Docker", "Kubernetes", "Github actions", "GitLab CI/CD"],
