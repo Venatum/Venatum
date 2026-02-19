@@ -44,7 +44,7 @@ const vincent: Venatum = {
 
 - 🔦 **[PrestaShop Flashlight](https://github.com/PrestaShop/prestashop-flashlight)** - Analysis and debugging tool  ![Docker Pulls](https://img.shields.io/docker/pulls/prestashop/prestashop-flashlight?color=0FAABD&logo=docker)
 ![Docker Stars](https://img.shields.io/docker/stars/prestashop/prestashop-flashlight?color=0FAABD)
-- 👥 **[PrestaShop Contributor Profile](https://contributors.prestashop-project.org/#Venatum)**
+- 👥 **[PrestaShop Contributor Profile](https://contributors.prestashop-project.org/?contributor=Venatum)**
 - 📊 **[Bull Board](https://github.com/felixmosh/bull-board)** - Dashboard for Redis queues
 
 #### Docker Hub 🐳
