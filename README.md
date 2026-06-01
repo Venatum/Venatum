@@ -19,7 +19,7 @@ TODO:
 
 ### 🚀 About Me
 
-Lead Developer at **PrestaShop** (FullStack / R&D) 💼  
+Senior Software Engineer at **DiliTrust** (FullStack / R&D) 💼  
 Passionate about technical innovation, open source projects, optimization & CI/CD processes 🔥  
 I work primarily between **GitHub** and [**GitLab**](https://gitlab.com/vincent.le-quec), with some fun side projects !
 
