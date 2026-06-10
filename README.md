@@ -19,7 +19,7 @@ TODO:
 
 ### 🚀 About Me
 
-Senior Software Engineer at **DiliTrust**(@dt-vincent-lequec) (FullStack / R&D) 💼  
+Senior Software Engineer at **DiliTrust**([@dt-vincent-lequec](https://github.com/dt-vincent-lequec)) (FullStack / R&D) 💼  
 Passionate about technical innovation, open source projects, optimization & CI/CD processes 🔥  
 I work primarily between **GitHub** and [**GitLab**](https://gitlab.com/vincent.le-quec), with some fun side projects !
 
