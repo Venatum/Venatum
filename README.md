@@ -57,6 +57,10 @@ const vincent: Venatum = {
 ![Docker Pulls](https://img.shields.io/docker/pulls/venatum/arena?color=0FAABD&logo=docker)
 ![Docker Image Size (tag)](https://img.shields.io/docker/image-size/venatum/arena/latest?color=0FAABD)
 ![Docker Stars](https://img.shields.io/docker/stars/venatum/arena?color=0FAABD)
+- [venatum/earnapp](https://hub.docker.com/r/venatum/earnapp): 
+![Docker Pulls](https://img.shields.io/docker/pulls/venatum/earnapp?color=0FAABD&logo=docker)
+![Docker Image Size (tag)](https://img.shields.io/docker/image-size/venatum/earnapp/latest?color=0FAABD)
+![Docker Stars](https://img.shields.io/docker/stars/venatum/earnapp?color=0FAABD)
 
 #### Personal Projects
 *Check out my most interesting projects pinned below* ⬇️
